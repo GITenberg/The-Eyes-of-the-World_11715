@@ -1,0 +1,34 @@
+_repo: The-Eyes-of-the-World_11715
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wright, Harold Bell
+    birthdate: 1872
+    deathdate: 1944
+    gutenberg_agent_id: '1146'
+    url: http://www.gutenberg.org/2009/agents/1146
+    wikipedia: http://en.wikipedia.org/wiki/Harold_Bell_Wright
+description: A young painter named Aaron King heads out west to California. There
+  he meets and befriends Conrad Lagrange, a famous and critically renowned novelist
+  who, by his own admission, writes "the putrid offal that self-respecting writers
+  reject." Will Aaron flatter the rich and powerful men and women who control the
+  art world, or keep his integrity as an artist? Meanwhile, he falls in love with
+  a free-spirited girl named Sybil.
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11715'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legacies -- Fiction'
+- !lcsh 'Artists -- Fiction'
+- !lcsh 'Painters -- Fiction'
+- !lcc 'PS'
+- !lcsh 'California -- Fiction'
+- GITenberg
+title: The Eyes of the World
+url: http://www.gutenberg.org/ebooks/11715
