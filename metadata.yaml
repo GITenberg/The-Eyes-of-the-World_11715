@@ -1,5 +1,8 @@
 _repo: The-Eyes-of-the-World_11715
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wright, Harold Bell
@@ -14,6 +17,8 @@ description: A young painter named Aaron King heads out west to California. Ther
   reject." Will Aaron flatter the rich and powerful men and women who control the
   art world, or keep his integrity as an artist? Meanwhile, he falls in love with
   a free-spirited girl named Sybil.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11715#The-Eyes-of-the-World
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
